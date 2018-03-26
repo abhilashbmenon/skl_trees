@@ -1,0 +1,14 @@
+Would you like to enable this
+
+
+Default column from the dataset
+0 - nothing is selected
+1 - yes is selected
+2 - no is selected 
+
+Framing column from the dataset
+0 - no framing (would you like to enable or disable this feature?)
+1 - positive framing (would you like to enable this feature?)
+2 - negative framing (would you like to disable this feature?)
+
+Framing is about the question being asked and default is about the option being selected or not selected when the question is asked?
